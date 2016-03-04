@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/D/xampp/xampp1/htdocs/molipaopay16-h5app"
+		}
+	],
+	"settings":
+	{
+	        "xdebug": { 
+	        "url": "localhost/molipaopay16-h5app/db/adduser.php"
+	    }
+	}
+}
